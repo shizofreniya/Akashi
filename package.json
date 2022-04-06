@@ -1,0 +1,14 @@
+{
+  "name": "akashi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@discordjs/voice": "^0.5.5",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ffmpeg-static": "^4.2.5",
+    "libsodium-wrappers": "^0.7.9"
+  }
+}
